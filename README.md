@@ -64,8 +64,8 @@ The dataset includes:
 ---
 
 ## 📁 Deliverables
-- `Sales_Financial_Dashboard.pbix` (Power BI file)
-- `Sales_Financial_Dashboard_Presentation.pptx` (Summary Presentation)
+- `Comprehensive Car Sales Dashboard.pbix` (Power BI file)
+- `Car_Sales_Dashboard_Summary.pptx` (Summary Presentation)
 
 ---
 
