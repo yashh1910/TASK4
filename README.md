@@ -1,14 +1,14 @@
-# 📊 Task 4: Dashboard Design - Sales & Financial Analysis
+# 📊 Task 4: Dashboard Design - Comprehensive Car Sales
 
 ## 🎯 Objective
-Design an **interactive dashboard** for business stakeholders to analyze key financial and sales metrics across time, regions, and product categories.
+Design an **interactive dashboard** for business stakeholders to analyze key financial and sales metrics across time, regions, and car segment.
 
 ---
 
 ## 🛠️ Tools Used
 - **Data Visualization Tool**: Power BI
 - **Dataset Source**: Kaggle
-- **Dataset Name**: Financial Sample Data (`04-01-Financial Sample Data.xlsx`)
+- **Dataset Name**: Car Sales Data (car sales.csv`)
 
 ---
 
